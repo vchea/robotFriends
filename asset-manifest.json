@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vchea/robotFriends/static/css/main.c5015e50.chunk.css",
+    "main.js": "/vchea/robotFriends/static/js/main.0b1da894.chunk.js",
+    "main.js.map": "/vchea/robotFriends/static/js/main.0b1da894.chunk.js.map",
+    "runtime-main.js": "/vchea/robotFriends/static/js/runtime-main.5b5ecb65.js",
+    "runtime-main.js.map": "/vchea/robotFriends/static/js/runtime-main.5b5ecb65.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/vchea/robotFriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.43e7e056.chunk.js": "/vchea/robotFriends/static/js/2.43e7e056.chunk.js",
+    "static/js/2.43e7e056.chunk.js.map": "/vchea/robotFriends/static/js/2.43e7e056.chunk.js.map",
+    "index.html": "/vchea/robotFriends/index.html",
+    "precache-manifest.d446e1ba10909d0a7d1b1ac128d523d3.js": "/vchea/robotFriends/precache-manifest.d446e1ba10909d0a7d1b1ac128d523d3.js",
+    "service-worker.js": "/vchea/robotFriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/vchea/robotFriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.c5015e50.chunk.css.map": "/vchea/robotFriends/static/css/main.c5015e50.chunk.css.map",
+    "static/js/2.43e7e056.chunk.js.LICENSE.txt": "/vchea/robotFriends/static/js/2.43e7e056.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vchea/robotFriends/static/media/Tadeliji.91ba84ad.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5ecb65.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.43e7e056.chunk.js",
+    "static/css/main.c5015e50.chunk.css",
+    "static/js/main.0b1da894.chunk.js"
+  ]
+}
